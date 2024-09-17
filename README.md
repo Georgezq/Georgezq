@@ -13,7 +13,7 @@ Si quieres conocer un poco más de mí, aquí te dejo mi portafolio (Aunque no e
 
 # Mis redes sociales
 
-<a href="www.linkedin.com/in/george-mendoza-masache">
+<a target="_blank" href="[www.linkedin.com/in/george-mendoza-masache](https://www.linkedin.com/in/george-mendoza-masache/)">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
