@@ -25,7 +25,7 @@ Si quieres conocer un poco más de mí, aquí te dejo mi portafolio (Aunque no e
 
 ### Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=angular,firebase,nodejs,mongodb,tailwind,bootstrap,astro,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,firebase,nodejs,tailwind,bootstrap,astro,flutter)](https://skillicons.dev)
 
 ### Diseño
 
