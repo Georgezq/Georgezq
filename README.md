@@ -17,6 +17,20 @@ Si quieres conocer un poco más de mí, aquí te dejo mi portafolio (Aunque no e
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+## Habilidades
+
+### Lenguajes
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,dart)](https://skillicons.dev)
+
+### Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=angular,firebase,nodejs,mongodb,tailwind,bootstrap,astro,flutter)](https://skillicons.dev)
+
+### Diseño
+
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
 <!--
 **Georgezq/Georgezq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
