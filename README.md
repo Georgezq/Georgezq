@@ -5,7 +5,7 @@ Si quieres conocer un poco más de mí, aquí te dejo mi portafolio (Aunque no e
 <a href="https://george-mendoza-porfolio.vercel.app/"> Portafolio web </a>
 
 <ul>
-  <li> 🔭 Actualmente estoy trabajando en: <b>Clone de Facebook con Angular</b> </li>
+  <li> 🔭 Actualmente estoy trabajando en: <b>Sistema Integrado MMO</b> </li>
   <li> 🌱 Estoy interesado en aprender: <b>React - Astro - Tailwind </b> </li>
   <li> 🤔 Estoy buscando ayuda con: <b>Angular </b> </li>
 </ul>
